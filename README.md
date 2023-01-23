@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I am a aspariring software developer with a passio
 
 ## Projects
 Here are a few of my notable projects:
-- [Project 1](https://github.com/PranitPatil03/project1): A web application built using Flask and React that allows users to track their daily tasks and manage their time effectively.
+- [Project 1](https://github.com/PranitPatil03/project1): A web application built using Flask that allows users to track their daily tasks and manage their time effectively.
 - [Project 2](https://github.com/PranitPatil03/project2): A data visualization tool that uses D3.js to display insights from a large dataset of financial transactions.
 - [Project 3](https://github.com/PranitPatil03/project3): A chatbot built using the NLTK library in Python that can answer frequently asked questions about a local business.
 
