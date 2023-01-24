@@ -1,25 +1,26 @@
 <h1>Hey 👋, I'm pranit patil</h1>
-Welcome to my GitHub profile! I am a aspariring software developer with a passion for creating innovative and efficient solutions.
+**Welcome to my GitHub profile! I am a aspariring software developer with a passion for creating innovative and efficient solutions.**
 
-## Skills
+## 🙂 Skills:
+
 - Proficient in JavaScript, Java & C
 - Experience with frameworks such as React and Node 
 - Familiarity with databases such as MySQL and MongoDB
-- Strong understanding of data structures, algorithms, and software design principles
 - Proficient in Git and familiar with Agile development methodologies
+- Strong understanding of data structures, algorithms, and software design principles
 
-## Projects
+## 💀 Project:
 Here are a few of my notable projects:
-- [Project 1](https://github.com/PranitPatil03/project1): A web application built using Flask that allows users to track their daily tasks and manage their time effectively.
-- [Project 2](https://github.com/PranitPatil03/project2): A data visualization tool that uses D3.js to display insights from a large dataset of financial transactions.
+- [Project 1](https://github.com/PranitPatil03/project2): A data visualization tool that uses D3.js to display insights from a large dataset of financial transactions.
+- [Project 2](https://github.com/PranitPatil03/project1): A web application built using Flask that allows users to track their daily tasks and manage their time effectively.
 - [Project 3](https://github.com/PranitPatil03/project3): A chatbot built using the NLTK library in Python that can answer frequently asked questions about a local business.
 
-## Education
+## 😲 Education:
 - Third Year (Sem 6) - Bachelor of Engineering in Computer Engineering from Mumbai University
 
-## Experience
-- Interning at HUBX (24 Jan 2023 - Present)
-- Intern at Tech Crytors (5 Dec 2022 - 8 Jan 2023)
+## 🤑 Experience:
+- Interning at **HUBX** (24 Jan 2023 - Present)
+- Intern at **Tech Crytors** (5 Dec 2022 - 8 Jan 2023)
 
 Feel free to reach out to me if you have any questions or just want to chat about technology and programming!
 
@@ -58,9 +59,6 @@ Feel free to reach out to me if you have any questions or just want to chat abou
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=PranitPatil03&icon=4&color=9)](https://visitcount.itsvg.in)
