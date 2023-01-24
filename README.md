@@ -1,5 +1,5 @@
 <h1>Hey 👋, I'm pranit patil</h1>
-**Welcome to my GitHub profile! I am a aspariring software developer with a passion for creating innovative and efficient solutions.**
+**Welcome to my GitHub profile! I am a aspariring software developer with a passion for creating innovative and efficient solutions**
 
 ## 🙂 Skills:
 
