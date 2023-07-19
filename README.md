@@ -28,7 +28,7 @@
 <!--Intro start-->
 - 👷‍♀️ I’m currently working at **Hubx.ai** as a **Full Stack developer Intern**
 
-- 🔭 I’m currently using on **React, Next, Nodejs, MongoDB**
+- 🔭 I’m currently using on **React, Nodejs, Express MongoDB**
 
 - ☁️ I have a keen interest in Full Stack Web Applications.
 
